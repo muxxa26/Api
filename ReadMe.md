@@ -1,5 +1,5 @@
 # RestAssured API Testing Automation Framework
-This project has a RestAssured based API testing framework. Underlying, it uses RestAssured -API testing library, Cucumber - Third-party free library for Running tests. This framework can be used for any Restful application to create API tests.
+This project has a RestAssured based API testing framework. Underlying, it uses RestAssured -API testing library, TestNG - Third-party free library for Running tests. This framework can be used for any Restful application to create API tests.
 
 # Contents
 * [Framework Details](#FrameworkDetails)
@@ -29,7 +29,7 @@ This project has a RestAssured based API testing framework. Underlying, it uses 
 > `src/main/java/` is the core package of Framework and it has various sub-packages dedicated  for various API testing functionalities. All sub-package details are mentioned in the following section. Added necessary documentation to all classes. 
 
 #### Test Package<a name="test"></a>
-> `src/test/java/` is the actual test package and the sub package  holds all test scenarios (BDD) related to restfulbooker application. 
+> `src/test/java/` is the actual test package and the sub package  holds all test classes (TDD) related to restfulbooker application. 
 
 
 
